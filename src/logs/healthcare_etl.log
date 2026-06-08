@@ -1,0 +1,44 @@
+2026-06-07 14:36:07,665 - INFO - Healthcare ETL Pipeline started
+2026-06-07 14:36:07,665 - INFO - Starting Extract phase
+2026-06-07 14:36:07,666 - INFO - Extract phase completed
+2026-06-07 14:36:07,666 - INFO - Starting Validation phase
+2026-06-07 14:37:25,194 - INFO - Healthcare ETL Pipeline started
+2026-06-07 14:37:25,194 - INFO - Starting Extract phase
+2026-06-07 14:37:25,213 - INFO - Extract phase completed
+2026-06-07 14:37:25,213 - INFO - Starting Validation phase
+2026-06-07 14:37:26,024 - INFO - Validation phase completed
+2026-06-07 14:37:26,024 - INFO - Starting Transform phase
+2026-06-07 14:37:26,049 - INFO - Transform phase completed
+2026-06-07 14:37:26,050 - INFO - Starting Enrich phase
+2026-06-07 14:37:26,084 - INFO - Enrich phase completed
+2026-06-07 14:37:26,084 - INFO - Starting Load phase
+2026-06-07 14:37:26,084 - WARNING - No database connection provided. Skipping PostgreSQL load.
+2026-06-07 14:37:26,084 - INFO - Healthcare ETL Pipeline completed
+2026-06-07 14:43:26,293 - INFO - Healthcare ETL Pipeline started
+2026-06-07 14:43:26,293 - INFO - Starting Extract phase
+2026-06-07 14:43:26,294 - INFO - Extract phase completed
+2026-06-07 14:43:26,294 - INFO - Starting Validation phase
+2026-06-07 14:44:46,369 - INFO - Healthcare ETL Pipeline started
+2026-06-07 14:44:46,369 - INFO - Starting Extract phase
+2026-06-07 14:44:46,379 - INFO - Extract phase completed
+2026-06-07 14:44:46,379 - INFO - Starting Validation phase
+2026-06-07 14:44:47,176 - INFO - Validation phase completed
+2026-06-07 14:44:47,177 - INFO - Starting Transform phase
+2026-06-07 14:44:47,203 - INFO - Transform phase completed
+2026-06-07 14:44:47,203 - INFO - Starting Enrich phase
+2026-06-07 14:44:47,237 - INFO - Enrich phase completed
+2026-06-07 14:44:47,237 - INFO - Starting Load phase
+2026-06-07 14:44:47,237 - WARNING - No database connection provided. Skipping PostgreSQL load.
+2026-06-07 14:44:47,237 - INFO - Healthcare ETL Pipeline completed
+2026-06-07 14:52:08,350 - INFO - Healthcare ETL Pipeline started
+2026-06-07 14:52:08,351 - INFO - Starting Extract phase
+2026-06-07 14:52:08,361 - INFO - Extract phase completed
+2026-06-07 14:52:08,361 - INFO - Starting Validation phase
+2026-06-07 14:52:09,161 - INFO - Validation phase completed
+2026-06-07 14:52:09,161 - INFO - Starting Transform phase
+2026-06-07 14:52:09,187 - INFO - Transform phase completed
+2026-06-07 14:52:09,187 - INFO - Starting Enrich phase
+2026-06-07 14:52:09,226 - INFO - Enrich phase completed
+2026-06-07 14:52:09,226 - INFO - Starting Load phase
+2026-06-07 14:52:10,044 - INFO - Load phase completed
+2026-06-07 14:52:10,044 - INFO - Healthcare ETL Pipeline completed
